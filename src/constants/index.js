@@ -35,6 +35,7 @@ export const PROJECTS = [
     image: project1,
     description: " This project is Full responsive and fetch real time data from TMDB API where user can Sign up/Login and watch Movies."
       ,
+      liveLink : `https://mmovix.netlify.app/`,
     technologies: ["HTML", "TailwindCSS", "React", "Redux" , "Firebase"],
   },
   {
@@ -42,6 +43,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "This project is Full responsive and fetch real time data from Youtube API where user can watch the Youtube videos and talk in live chat with Dark/Light theme feature as well.",
+      liveLink : `https://myoutubeapp.netlify.app`,
     technologies: ["HTML", "TailwindCSS", "React", "Redux", "Debouncing"],
   },
   {
@@ -49,6 +51,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
+      liveLink : `https://minfolio.netlify.app`,
     technologies: ["HTML", "TailwindCSS", "React"],
   },
 
