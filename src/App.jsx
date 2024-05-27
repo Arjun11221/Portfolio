@@ -1,5 +1,6 @@
 import About from "./components/About";
 import Contact from "./components/Contact";
+import Education from "./components/Education";
 import Exp from "./components/Exp";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -17,6 +18,7 @@ export default function App() {
         <Navbar />
         <Hero/>
         <About/>
+        <Education/>
         <Technologies/>
         <Exp/>
         <Project/>

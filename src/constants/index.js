@@ -29,6 +29,37 @@ export const EXPERIENCES = [
 
 ];
 
+export const EDUCATION = [
+  {
+    year: "Dec-2022 – Jan 2024",
+    role: " Full-Stack Web Development",
+    company: "TechStack Academy",
+    location: `New Delhi`,
+  },
+  {
+    year: "Aug-2021 – Present",
+    role: "Bachelor of Science",
+    company: "Indira Gandhi National Open University",
+    location: `New Delhi`,
+  },
+
+  {
+    year: "July 2021",
+    role: "12th | CBSE Board, New Delhi ",
+    company: "Govt. Boys Sr. Sec School",
+    location: `Khajoori Khass, Delhi`,
+  },
+
+  {
+    year: "May 2019",
+    role: "10th | CBSE Board, New Delhi ",
+    company: "Govt. Boys Sr. Sec School",
+    location: `Khajoori Khass, Delhi`,
+  },
+  
+
+];
+
 export const PROJECTS = [
   {
     title: "Movix Website",
