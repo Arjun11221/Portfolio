@@ -1,6 +1,7 @@
 import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.png";
 
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 6 months of hands-on experience, I have honed my skills in front-end technologies like React, Redux and Tailwind, as well as back-end technologies like Node.js, Express.js, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
@@ -84,6 +85,15 @@ export const PROJECTS = [
       "A personal portfolio website showcasing projects, skills, and contact information.",
       liveLink : `https://minfolio.netlify.app`,
     technologies: ["HTML", "TailwindCSS", "React"],
+  },
+  {
+    title: "Deepak Digital",
+    image: project4,
+    description:
+      "A passionate photographer with over 5 years of experience to showcasing his projects, skills, services, and contact information.",
+      
+      liveLink : `https://deepakdigital.netlify.app/`,
+    technologies: ["HTML", "TailwindCSS", "React","EmailJs"],
   },
 
 ];
