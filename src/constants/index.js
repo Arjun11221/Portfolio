@@ -11,11 +11,9 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 export const EXPERIENCES = [
   {
     year: "Apr 2024 - Present",
-    role: "MERN Stack Trainer",
+    role: "MERN Stack Developer",
     company: "Nics Technology Pvt. Ltd",
-    description: `Conduct training sessions, workshops, and presentations either in-person or virtually. This may 
-    involve explaining complex technical concepts in a clear and understandable manner, using appropriate teaching 
-    methods and tools.
+    description: `Building and maintaining web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js).Writing clean, maintainable, and efficient code.Creating responsive and dynamic user interfaces using React.js.
     `,
     technologies: ["HTML", "CSS", "JavaScript", "React", "Nodejs"],
   },
